@@ -8,7 +8,7 @@ namespace AddProductApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ProductController : ControllerBase
+    public class ProductsController : ControllerBase
     {
         // GET api/values
         [HttpGet]
