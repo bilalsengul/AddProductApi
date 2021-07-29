@@ -1,0 +1,8 @@
+C:\Users\bseng\OneDrive\Masaüstü\Github\AddProductApi\AddProductApi\AddProductApi\AddProductApi.Business\bin\Debug\netcoreapp2.1\AddProductApi.Business.deps.json
+C:\Users\bseng\OneDrive\Masaüstü\Github\AddProductApi\AddProductApi\AddProductApi\AddProductApi.Business\bin\Debug\netcoreapp2.1\AddProductApi.Business.dll
+C:\Users\bseng\OneDrive\Masaüstü\Github\AddProductApi\AddProductApi\AddProductApi\AddProductApi.Business\bin\Debug\netcoreapp2.1\AddProductApi.Business.pdb
+C:\Users\bseng\OneDrive\Masaüstü\Github\AddProductApi\AddProductApi\AddProductApi\AddProductApi.Business\obj\Debug\netcoreapp2.1\AddProductApi.Business.AssemblyInfoInputs.cache
+C:\Users\bseng\OneDrive\Masaüstü\Github\AddProductApi\AddProductApi\AddProductApi\AddProductApi.Business\obj\Debug\netcoreapp2.1\AddProductApi.Business.AssemblyInfo.cs
+C:\Users\bseng\OneDrive\Masaüstü\Github\AddProductApi\AddProductApi\AddProductApi\AddProductApi.Business\obj\Debug\netcoreapp2.1\AddProductApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\bseng\OneDrive\Masaüstü\Github\AddProductApi\AddProductApi\AddProductApi\AddProductApi.Business\obj\Debug\netcoreapp2.1\AddProductApi.Business.dll
+C:\Users\bseng\OneDrive\Masaüstü\Github\AddProductApi\AddProductApi\AddProductApi\AddProductApi.Business\obj\Debug\netcoreapp2.1\AddProductApi.Business.pdb

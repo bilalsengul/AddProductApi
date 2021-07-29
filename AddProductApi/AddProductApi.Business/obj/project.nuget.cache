@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+WSaJTsoVDdBLlpigXaTk+Vw7sXKn8gzIn4N4OE5QpxWwfxxnHZqo6RB2O/RjmjscsrZRZ3o919MUOiR4SYqWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bseng\\OneDrive\\Masaüstü\\Github\\AddProductApi\\AddProductApi\\AddProductApi\\AddProductApi.Business\\AddProductApi.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bseng\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\bseng\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\bseng\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\bseng\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\bseng\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\bseng\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\bseng\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
